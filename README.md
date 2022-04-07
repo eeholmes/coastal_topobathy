@@ -2,7 +2,6 @@
 
 Team project aimed at extracting sections of tracklines, and identifying bathymetry and coastal morphology
 
-
 ## How to contribute
 
 * Use our Slack channel ICESat2 - Coastal or GitHub issues to suggest new things we might work on or changes to our repo. 
