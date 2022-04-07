@@ -15,17 +15,17 @@ This page documents our functions and examples.
    :hidden:
    :caption: Examples
 
-   Visualization
-   ==============
-   
    examples/AK_topobathy_vis
    examples/OpenAltimetry_example
-   
-   SlideRule
-   ==============
-   
    examples/SlideRule_example
    examples/SlideRule_getData
+   
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: More Examples
+
+   examples
    
 .. toctree::
    :maxdepth: 1
