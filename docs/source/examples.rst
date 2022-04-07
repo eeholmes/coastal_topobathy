@@ -1,11 +1,19 @@
 Visualization
-==============
+=============
 
-examples/AK_topobathy_vis
-examples/OpenAltimetry_example
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
 
+   examples/AK_topobathy_vis
+   examples/OpenAltimetry_example
+   
 SlideRule
 ==============
 
-examples/SlideRule_example
-examples/SlideRule_getData
+.. toctree::
+   :maxdepth: 1
+   :titlesonly:
+
+   examples/SlideRule_example
+   examples/SlideRule_getData
